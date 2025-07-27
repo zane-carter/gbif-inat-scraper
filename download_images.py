@@ -29,7 +29,7 @@ Output:
 - Logs all downloaded and rejected image URLs
 
 Usage:
-    python download_species_images.py
+    python download_images.py
 """
 
 # Imports
